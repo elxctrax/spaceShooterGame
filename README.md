@@ -1,4 +1,4 @@
-Space Shooter Game 🚀
+Space Shooter Game
 
 An arcade-style space shooter built with the **Defold Game Engine**.
 
